@@ -1,5 +1,6 @@
-# Meanbook
-This project includes getting values from textbox, and perform feature of Angular Two way Binding, passing values from HTML to TypeScript. 
+# Meanbook Angular- Node(Express)- MongoDB 
+Here, passing values from Angular to MongoDB, using Express (Route) was done. 
+Getting values from Register Component then to TypeScript. After that passing values from TS to MongoDB ( in server.js ) was done.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 ## Development server
